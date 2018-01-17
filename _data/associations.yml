@@ -1,0 +1,9 @@
+# Associations
+# comment out the urls if you do not wish to display them
+
+- organization: Palm Beach Tech
+  role: Volunteer
+  year: 2016
+  url: https://palmbeachtech.org/
+  summary: Wordpress Maintence, Event Committee Memember, Volunteer, CoWorker 
+
